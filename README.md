@@ -1,1 +1,3 @@
-# Urban-Data-A1-NYC-Open-Data
+# INFO5430 Urban Data
+
+## Project 1: NYC Open Data Vehicle Crashes
